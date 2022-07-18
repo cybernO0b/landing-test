@@ -1,0 +1,24 @@
+/* footer {
+    margin: 0px;
+} */
+.container-two {
+    grid-template-columns: 2fr;
+    
+}
+
+.link {
+    display: flex;
+    flex-direction: column ;
+}
+
+.logo__black {
+    padding-top: 150px;
+    padding-left: 200px;
+}
+
+.map {
+    position: absolute;
+    height: 100vh;
+    width: 640px;
+    
+}

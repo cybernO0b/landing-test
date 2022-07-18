@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    
+}
+.container-one {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../../image/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo__pic {
+    padding-top: 75px;
+    padding-left: 200px;
+}
+
+.text-one {
+    width: 45%;
+    padding-top: 50px;
+    padding-left: 230px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 80px;
+    color: white;
+}
+
+.text-two {
+    width: 35%;
+    padding-left: 230px;
+    color: white;
+}
+
+.first-btn {
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 300px;
+    height: 60px;
+    left: 230px;
+    top: 50px;
+    border: 0;
+    font-size: 14px;
+    
+}
