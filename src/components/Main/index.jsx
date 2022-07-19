@@ -8,7 +8,7 @@ import LogoWhite from '../../image/LogoWhite.png';
 const Main = () => {
     return (
         <main>
-           <div className="container-one">
+           <div className="container-main">
                 <div className='logo'>
                 <img alt="Saturn" src={LogoWhite} className="logo__pic"/>
                 </div>
